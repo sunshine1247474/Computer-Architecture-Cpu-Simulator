@@ -5,7 +5,7 @@
 
 In the realm of computer science and engineering, understanding the inner workings of a CPU is fundamental. CPUs (Central Processing Units) are the brains of computers, responsible for executing instructions and managing data. To demystify these intricate processes, I developed a Python program that simulates a basic CPU. This blog post explores the why and how of this project, providing insights into the code, its functionality, and potential enhancements.
 
-![CPU Simulation](https://example.com/image.gif) *(Replace with an actual image or GIF of your program)*
+![CPU Simulation](https://example.com/image.gif) 
 
 ## Why Simulate a CPU?
 
