@@ -37,7 +37,7 @@ class CPU:
         print(f"ADD: R{rd} = R{rs} + R{rt} -> {self.registers[rd]}")
 ```
 
-The complete code is available on [GitHub]([https://github.com/yourusername/cpu-simulator](https://github.com/sunshine1247474/Computer-Architecture-Cpu-Simulator/blob/main/SimpleCPUSimulator.py)).
+The complete code is available on [GitHub](https://github.com/sunshine1247474/Computer-Architecture-Cpu-Simulator/blob/main/SimpleCPUSimulator.py)
 
 ## How It Works
 
@@ -80,21 +80,21 @@ This simulator can be implemented in other programming languages such as C++ or 
 
 Simulating a CPU using Python provides valuable insights into the functioning of computer systems. This project, while simple, lays the foundation for understanding complex CPU architectures and operations. Whether you're a student, an educator, or just a curious mind, this simulator offers a hands-on approach to learning about CPUs.
 
-Feel free to explore the [GitHub repository](https://github.com/yourusername/cpu-simulator) for the complete code and contribute to its development. Happy coding!
+Feel free to explore the [GitHub](https://github.com/sunshine1247474/Computer-Architecture-Cpu-Simulator/blob/main/SimpleCPUSimulator.py)) for the complete code and contribute to its development. Happy coding!
 
 ### Questions to Explore
 
-- **What does your program do?**
+- **What is the purpose programs?**
   - It simulates a basic CPU, executing a set of predefined instructions and managing data.
-- **What data do you need?**
+- **What data do we need?**
   - Instructions to execute and data values for the registers and memory.
-- **What aspects of a CPU can you simulate using Python?**
+- **What aspects of a CPU can it simulate using Python?**
   - Instruction execution, data storage, cache management, and control flow.
 - **How will your CPU handle incoming instructions?**
   - Through a set of methods corresponding to each instruction type, updating the state of registers and the program counter.
-- **How will your CPU output instructions?**
+- **How The CPU output instructions?**
   - By printing the results of each instruction execution, showing register values and the program counter.
-- **How will your CPU store data?**
+- **How The CPU store data?**
   - Using lists for registers and dictionaries for memory.
 
 By continuously refining the code and exploring new features, we can create a more comprehensive and efficient CPU simulator. Let's dive deeper into the world of computer architecture and make learning fun and interactive!
