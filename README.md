@@ -80,7 +80,7 @@ This simulator can be implemented in other programming languages such as C++ or 
 
 Simulating a CPU using Python provides valuable insights into the functioning of computer systems. This project, while simple, lays the foundation for understanding complex CPU architectures and operations. Whether you're a student, an educator, or just a curious mind, this simulator offers a hands-on approach to learning about CPUs.
 
-Feel free to explore the [GitHub](https://github.com/sunshine1247474/Computer-Architecture-Cpu-Simulator/blob/main/SimpleCPUSimulator.py)) for the complete code and contribute to its development. Happy coding!
+Feel free to explore the [GitHub](https://github.com/sunshine1247474/Computer-Architecture-Cpu-Simulator/blob/main/SimpleCPUSimulator.py)) for the complete code and contribute to its development.
 
 ### Questions to Explore
 
@@ -97,4 +97,4 @@ Feel free to explore the [GitHub](https://github.com/sunshine1247474/Computer-Ar
 - **How The CPU store data?**
   - Using lists for registers and dictionaries for memory.
 
-By continuously refining the code and exploring new features, we can create a more comprehensive and efficient CPU simulator. Let's dive deeper into the world of computer architecture and make learning fun and interactive!
+Feel free to copy and work with this project.
