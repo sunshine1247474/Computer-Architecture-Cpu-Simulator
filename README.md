@@ -37,7 +37,7 @@ class CPU:
         print(f"ADD: R{rd} = R{rs} + R{rt} -> {self.registers[rd]}")
 ```
 
-The complete code is available on [GitHub](https://github.com/yourusername/cpu-simulator).
+The complete code is available on [GitHub]([https://github.com/yourusername/cpu-simulator](https://github.com/sunshine1247474/Computer-Architecture-Cpu-Simulator/blob/main/SimpleCPUSimulator.py)).
 
 ## How It Works
 
